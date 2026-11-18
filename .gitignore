@@ -1,0 +1,14 @@
+# Environment & secrets
+.env
+
+# Python bytecode & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# ADK local session state & backups
+.adk/
+*.db
+*.bak
